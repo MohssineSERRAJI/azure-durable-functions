@@ -1,6 +1,9 @@
 {
   "version": "2.0",
   "logging": {
+    "logLevel": {
+      "Function.print_message_and_wait_random.User": "Information"
+    },
     "applicationInsights": {
       "samplingSettings": {
         "isEnabled": true,
